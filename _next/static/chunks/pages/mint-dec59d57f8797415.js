@@ -177,7 +177,7 @@
         F = t(25675),
         B = t.n(F),
         u = {
-          src: "/_next/static/media/whiteList_nft.352700a6.png",
+          src: "/homeNFT.png",
           height: 636,
           width: 636,
           blurDataURL:
@@ -239,7 +239,7 @@
                           }),
                           (0, d.jsx)("span", {
                             className: "",
-                            children: "Loxodrome",
+                            children: "OmniX AI",
                           }),
                         ],
                       }),
@@ -271,16 +271,6 @@
                             }),
                             children: [
                               (0, d.jsx)("button", {
-                                onClick: () => {
-                                  window.open(
-                                    "https://app.secure3.io/203ca47f68"
-                                  );
-                                },
-                                className:
-                                  "btn btn-primary mr-2 text-blue shadow-3xl bg-transparent hover:bg-primary border border-primary rounded-none px-3.5 hover:bg-opacity-10 hover:shadow-none min-h-0 h-10 font-medium text-sm",
-                                children: "Audit",
-                              }),
-                              (0, d.jsx)("button", {
                                 onClick: () => (0, m._)(!0),
                                 className:
                                   "btn btn-primary mr-2 text-blue shadow-3xl bg-transparent hover:bg-primary border border-primary rounded-none px-3.5 hover:bg-opacity-10 hover:shadow-none min-h-0 h-10 font-medium text-sm",
@@ -311,7 +301,7 @@
                                                 ? void 0
                                                 : o.formatted) || "0"
                                             ).toFixed(2),
-                                            " IOTX"
+                                            " OMNIX"
                                           ),
                                         }),
                                         (0, d.jsx)("button", {
@@ -476,16 +466,6 @@
                                           }),
                                           children: [
                                             (0, d.jsx)("button", {
-                                              onClick: () => {
-                                                window.open(
-                                                  "https://app.secure3.io/203ca47f68"
-                                                );
-                                              },
-                                              className:
-                                                "mt-4 w-full btn btn-primary text-blue shadow-3xl bg-transparent hover:bg-primary border border-primary rounded-none px-3.5 hover:bg-opacity-10 hover:shadow-none min-h-0 h-10 font-medium text-sm",
-                                              children: "Audit",
-                                            }),
-                                            (0, d.jsx)("button", {
                                               onClick: () => (0, m._)(!0),
                                               className:
                                                 "mt-4 w-full btn btn-primary text-blue shadow-3xl bg-transparent hover:bg-primary border border-primary rounded-none px-3.5 hover:bg-opacity-10 hover:shadow-none min-h-0 h-10 font-medium text-sm",
@@ -522,7 +502,7 @@
                                                               : o.formatted) ||
                                                               "0"
                                                           ).toFixed(2),
-                                                          " IOTX"
+                                                          " OMNIX"
                                                         ),
                                                       }),
                                                       (0, d.jsx)("button", {
@@ -1714,7 +1694,7 @@
                         (0, d.jsx)("div", {
                           className:
                             "text-gray-200 text-base font-bold capitalize",
-                          children: "Mint LoxoNFT",
+                          children: "Mint OmnixNFT",
                         }),
                         (0, d.jsx)("button", {
                           className:
@@ -1987,7 +1967,7 @@
                 children: [
                   (0, d.jsxs)(f(), {
                     children: [
-                      (0, d.jsx)("title", { children: "Loxodrome | Mint" }),
+                      (0, d.jsx)("title", { children: "OmniX AI | Mint" }),
                       (0, d.jsx)("link", {
                         rel: "apple-touch-icon",
                         sizes: "180x180",
@@ -2032,7 +2012,7 @@
                               className:
                                 "text-white text-3xl font-bold uppercase leading-loose lg:pb-2",
                               children: [
-                                "LoxoNFT ",
+                                "OmnixNFT ",
                                 [
                                   "Public Mint",
                                   "Private Mint",
@@ -2069,77 +2049,6 @@
                                     "text-gray-200 text-opacity-50 text-xl font-bold capitalize leading-loose whitespace-nowrap",
                                   children: ["/ ", Z, " "],
                                 }),
-                                (0, d.jsx)("span", {
-                                  className:
-                                    "text-blue text-[14px] cursor-pointer pl-2 hover:underline",
-                                  onClick: () => {
-                                    window.open(
-                                      "https://nft.mimo.exchange/collections/0x7f8cb1d827f26434da652b4e9bd02c698cc2842a"
-                                    );
-                                  },
-                                  children: "(View your LoxoNFT on Mimo)",
-                                }),
-                              ],
-                            }),
-                            (0, d.jsxs)("div", {
-                              className:
-                                "flex pb-3 space-x-2 lg:space-x-0 mb-4 lg:mb-0",
-                              children: [
-                                (0, d.jsx)("div", {
-                                  className:
-                                    "text-gray-200 text-sm font-normal uppercase leading-loose",
-                                  children: "Contract address",
-                                }),
-                                (0, d.jsxs)("div", {
-                                  className: "flex items-center space-x-2 pl-3",
-                                  children: [
-                                    (0, d.jsx)(s(), {
-                                      href:
-                                        4690 === ed
-                                          ? "https://iotexscan.io/address/".concat(
-                                              j[4690].NFT,
-                                              "#readContract"
-                                            )
-                                          : "https://iotexscan.io/address/".concat(
-                                              j[4689].NFT,
-                                              "#readContract"
-                                            ),
-                                      target: "_blank",
-                                      className:
-                                        "text-blue-600 text-sm font-normal capitalize leading-loose hover:underline",
-                                      children:
-                                        j[4689].NFT.slice(0, 5) +
-                                        "..." +
-                                        j[4689].NFT.slice(-5),
-                                    }),
-                                    (0, d.jsx)("button", {
-                                      onClick: () => {
-                                        let e = j[4689];
-                                        l()(e.NFT).then(() => {
-                                          n(!0),
-                                            setTimeout(() => {
-                                              n(!1);
-                                            }, 2e3);
-                                        });
-                                      },
-                                      className: "focus:outline-none",
-                                      children: (0, d.jsx)("span", {
-                                        className:
-                                          "text-white text-opacity-50 text-sm font-normal capitalize leading-loose",
-                                        children: t
-                                          ? (0, d.jsx)("span", {
-                                              children: "Copied!",
-                                            })
-                                          : (0, d.jsx)(v.muo, {
-                                              style: {
-                                                width: "24px",
-                                                height: "24px",
-                                              },
-                                            }),
-                                      }),
-                                    }),
-                                  ],
-                                }),
                               ],
                             }),
                           ],
@@ -2152,11 +2061,11 @@
                               className:
                                 " lg:px-0 text-white text-opacity-60 text-sm font-normal leading-loose",
                               children: [
-                                "LoxoNFT is your key to community, governance, rewards, and passive income. Limited supply (5000) of LoxoNFTs can unlock multi revenue streams:",
+                                "OmnixNFT is your key to community, governance, rewards, and passive income. Limited supply (5000) of OmnixNFTs can unlock multi revenue streams:",
                                 (0, d.jsx)(
                                   s(),
                                   {
-                                    href: "https://docs.loxodrome.xyz/terminology-know/major-players#id-5.loxonft-stakers",
+                                    href: "https://alexeys-organization-9.gitbook.io/omnix-ai",
                                     target: "_blank",
                                     className:
                                       "text-blue-600 text-sm font-normal capitalize leading-normal",
@@ -2170,7 +2079,7 @@
                               className: A().stakeBtn,
                               onClick: () => {
                                 window.open(
-                                  "https://dapp.loxodrome.xyz/loxonft"
+                                  "https://omnix-ai-app-cs.vercel.app/OmnixNFT"
                                 );
                               },
                               children: [
@@ -2221,7 +2130,7 @@
                                       className: "text-white text-opacity-100",
                                       children: "Exclusive Airdrops: ",
                                     }),
-                                    "Guaranteed participation in future Loxodrome token distributions.",
+                                    "Guaranteed participation in future OmniX AI token distributions.",
                                   ],
                                 }),
                               ],
@@ -2277,7 +2186,7 @@
                                     (0, d.jsxs)("div", {
                                       className:
                                         "w-1/2 text-right text-white text-sm font-bold capitalize leading-loose",
-                                      children: [r, " IOTX  "],
+                                      children: [r, " OMNIX  "],
                                     }),
                                   ],
                                 }),
@@ -2443,11 +2352,11 @@
                               className:
                                 " mb-2 lg:px-0 text-white text-opacity-60 text-xs font-normal leading-loose",
                               children: [
-                                "LoxoNFTs are integral to the community-owned protocol, offering unique benefits and passive income opportunities to their holders. With a total supply of 2000, these NFTs unlock various revenue streams, such as trading fees, fair launch airdrops, and additional rewards.",
+                                "OmnixNFTs are integral to the community-owned protocol, offering unique benefits and passive income opportunities to their holders. With a total supply of 2000, these NFTs unlock various revenue streams, such as trading fees, fair launch airdrops, and additional rewards.",
                                 (0, d.jsx)(
                                   s(),
                                   {
-                                    href: "https://docs.loxodrome.xyz",
+                                    href: "https://alexeys-organization-9.gitbook.io/omnix-ai",
                                     target: "_blank",
                                     className:
                                       "text-blue-600 text-sm font-normal capitalize leading-normal",
@@ -2464,7 +2373,7 @@
                               ),
                               onClick: () => {
                                 window.open(
-                                  "https://dapp.loxodrome.xyz/loxonft"
+                                  "https://omnix-ai-app-cs.vercel.app/OmnixNFT"
                                 );
                               },
                               children: [

@@ -8815,15 +8815,15 @@
           [
             {
               id: 4689,
-              name: "IoTeX mainnet",
-              network: "IoTeX mainnet",
-              nativeCurrency: { decimals: 18, name: " IoTeX", symbol: "IOTX" },
+              name: "OmniX mainnet",
+              network: "OmniX mainnet",
+              nativeCurrency: { decimals: 18, name: " OmniX", symbol: "OMNIX" },
               rpcUrls: {
                 public: { http: ["https://babel-api.mainnet.iotex.io"] },
                 default: { http: ["https://babel-api.fastblocks.io"] },
               },
               blockExplorers: {
-                default: { name: "Iotex mainnet", url: "https://iotexscan.io" },
+                default: { name: "OmniX mainnet", url: "https://iotexscan.io" },
               },
             },
           ],
@@ -8836,7 +8836,7 @@
           ]
         ),
         { connectors: m } = (0, i.wo)({
-          appName: "Loxodrome",
+          appName: "OmniX AI",
           projectId: "e798cef35d6a24a5ddf135ca3b9d57d7",
           chains: f,
         }),

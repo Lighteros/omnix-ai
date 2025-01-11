@@ -1045,60 +1045,30 @@
         C = r(75131);
       let s = [
           {
-            name: "Discord",
-            href: "https://discord.com/invite/nrGhH272gX",
-            icon: i.HpO,
-          },
-          {
             name: "Twitter",
             href: "https://twitter.com/_Loxodrome",
             icon: i.vJk,
           },
           { name: "Telegram", href: "https://t.me/loxodrome_xyz", icon: C.YG },
-          {
-            name: "Mirror",
-            href: "https://mirror.xyz/0xB8925deB3391797541c0E3E7883be5B65F648F4D",
-            icon: C.QD,
-          },
-          { name: "Doc", href: "https://docs.loxodrome.xyz", icon: i.QXK },
+          { name: "Doc", href: "https://alexeys-organization-9.gitbook.io/omnix-ai", icon: i.QXK },
         ],
         o = [
-          {
-            name: "Discord",
-            href: "https://discord.com/invite/nrGhH272gX",
-            icon: i.HpO,
-          },
           {
             name: "Twitter",
             href: "https://twitter.com/_Loxodrome",
             icon: i.vJk,
           },
           { name: "Telegram", href: "https://t.me/loxodrome_xyz", icon: C.Xo },
-          {
-            name: "Mirror",
-            href: "https://mirror.xyz/0xB8925deB3391797541c0E3E7883be5B65F648F4D",
-            icon: C.Ay,
-          },
-          { name: "Doc", href: "https://docs.loxodrome.xyz", icon: i.QXK },
+          { name: "Doc", href: "https://alexeys-organization-9.gitbook.io/omnix-ai", icon: i.QXK },
         ],
         n = [
-          {
-            name: "Discord",
-            href: "https://discord.com/invite/nrGhH272gX",
-            icon: i.HpO,
-          },
           {
             name: "Twitter",
             href: "https://twitter.com/_Loxodrome",
             icon: i.vJk,
           },
           { name: "Telegram", href: "https://t.me/loxodrome_xyz", icon: C.UN },
-          {
-            name: "Mirror",
-            href: "https://mirror.xyz/0xB8925deB3391797541c0E3E7883be5B65F648F4D",
-            icon: C.Gp,
-          },
-          { name: "Doc", href: "https://docs.loxodrome.xyz", icon: i.QXK },
+          { name: "Doc", href: "https://alexeys-organization-9.gitbook.io/omnix-ai", icon: i.QXK },
         ];
     },
     59429: function (e, t, r) {
@@ -1113,7 +1083,7 @@
           r = "";
         return ((r = ["testnet", "localhost:3000"].includes(t)
           ? "https://dapptest.loxodrome.xyz/swap"
-          : "https://dapp.loxodrome.xyz/swap"),
+          : "https://omnix-ai-app-cs.vercel.app/swap"),
         e)
           ? ((window.location.href = r), "")
           : r;

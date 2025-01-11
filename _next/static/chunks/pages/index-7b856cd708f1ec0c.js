@@ -23,7 +23,7 @@
         a = l(25675),
         o = l.n(a),
         x = {
-          src: "/_next/static/media/logo.9c051ac4.svg",
+          src: "/_next/static/media/logo.9c051ac4.png",
           height: 22,
           width: 108,
           blurWidth: 0,
@@ -115,41 +115,41 @@
             {
               height: "16%",
               btnTitle: "Swap Now",
-              url: "https://dapp.loxodrome.xyz/swap",
+              url: "https://omnix-ai-app-cs.vercel.app/swap",
               title: "Swap Your Tokens",
               subTitle: "With Low Slippage",
               content:
-                "Loxodrome ensures minimal slippage and maximum returns with smart routing, deep liquidity, and advanced AMM tech.",
+                "OmniX AI ensures minimal slippage and maximum returns with smart routing, deep liquidity, and advanced AMM tech.",
               img: "/Introducing1.png",
             },
             {
               height: "44.5%",
-              url: "https://dapp.loxodrome.xyz/liquidity",
+              url: "https://omnix-ai-app-cs.vercel.app/liquidity",
               btnTitle: "Deposit Liquidity",
               title: "Stake Liquidity to Earn",
-              subTitle: "Earn LOXO emissions",
+              subTitle: "Earn OMNIX emissions",
               content:
-                "LP stakers obtain weekly LOXO emission rewards by attracting veLOXO holders to vote for the Pool.",
+                "LP stakers obtain weekly OMNIX emission rewards by attracting OMNIX holders to vote for the Pool.",
               img: "/Introducing2.png",
             },
             {
               height: "71%",
               btnTitle: "Go to Lock",
-              url: "https://dapp.loxodrome.xyz/lock",
-              title: "Lock LOXO to earn ",
-              subTitle: "Lock LOXO to get votes",
+              url: "https://omnix-ai-app-cs.vercel.app/lock",
+              title: "Lock OMNIX to earn ",
+              subTitle: "Lock OMNIX to get votes",
               content:
-                "Lock your LOXO to gain voting rights and unlock voting benefits.",
+                "Lock your OMNIX to gain voting rights and unlock voting benefits.",
               img: "/Introducing3.png",
             },
             {
               height: "98%",
               btnTitle: "Cast your vote",
-              url: "https://dapp.loxodrome.xyz/vote",
+              url: "https://omnix-ai-app-cs.vercel.app/vote",
               title: "Cast Your Votes to Earn",
               subTitle: "Earn Bribes and Rewards",
               content:
-                "veLOXO holders participate in voting, receive bribes and fees, and redirect emissions to LOXO pool of LPs.",
+                "OMNIX holders participate in voting, receive bribes and fees, and redirect emissions to OMNIX pool of LPs.",
               img: "/Introducing4.png",
             },
           ],
@@ -205,7 +205,7 @@
                         (0, s.jsx)("span", {
                           className: "text-blue",
                           style: { fontFamily: "Outfit-SemiBold" },
-                          children: "IoTeX",
+                          children: "OmniX",
                         }),
                       ],
                     }),
@@ -220,7 +220,7 @@
                         children: [
                           (0, s.jsx)("button", {
                             className: h().mintBtn,
-                            children: "MINT LoxoNFT",
+                            children: "MINT OmnixNFT",
                           }),
                           (0, s.jsx)("span", {
                             className: "ml-1",
@@ -295,7 +295,7 @@
                         className:
                           "fontSemibold pl-[8px] text-[24px] leading-[48px] text-blue",
                         style: { zIndex: "2" },
-                        children: "Introducing Loxodrome",
+                        children: "Introducing OmniX AI",
                       }),
                       (0, s.jsx)("div", {
                         className:
@@ -388,7 +388,7 @@
                     className:
                       "fontSemibold text-[26px] md:text-[32px] leading-[36px] md:leading-[48px] text-blue",
                     style: { zIndex: "2" },
-                    children: "Introducing Loxodrome",
+                    children: "Introducing OmniX AI",
                   }),
                   (0, s.jsx)("div", {
                     className:
@@ -466,32 +466,32 @@
             (0, s.jsx)("div", {
               className:
                 "text-[26px] md:text-[32px] max-w-[500px] lg:max-w-[unset] mt-[10px] lg:mt-0 leading-[40px] md:leading-[60px] text-center",
-              children: "Control Loxodrome’s destiny by locking into veLOXO.",
+              children: "Control OmniX AI’s destiny by locking into OMNIX.",
             }),
             (0, s.jsx)("div", {
               className:
                 "lg:mt-[78px] w-full flex flex-col lg:flex-row items-center lg:items-stretch lg:justify-between",
               children: [
                 {
-                  title: "Lock LOXO",
-                  subTitle: "and Receive veLOXO",
+                  title: "Lock OMNIX",
+                  subTitle: "and Receive OMNIX",
                   color: "#3FFAAF",
                   content:
-                    "Lock LOXO for up to 2 years to receive vote-escrowed LOXO (veLOXO). The longer LOXO lock, the more veLOXO you receive.",
+                    "Lock OMNIX for up to 2 years to receive vote-escrowed OMNIX (OMNIX). The longer OMNIX lock, the more OMNIX you receive.",
                 },
                 {
-                  title: "Use veLOXO to Vote",
+                  title: "Use OMNIX to Vote",
                   subTitle: "for Your Favorite Pools",
                   color: "#E7FF42",
                   content:
-                    "veLOXO gives you voting power to decide which pools should receive LOXO emissions.",
+                    "OMNIX gives you voting power to decide which pools should receive OMNIX emissions.",
                 },
                 {
                   title: "Receive Bribes",
                   subTitle: "and Trading Fees",
                   color: "#3FFAAF",
                   content:
-                    "Voting for a pool lets you claim a share of LOXO weekly bribes and trading fees.",
+                    "Voting for a pool lets you claim a share of OMNIX weekly bribes and trading fees.",
                 },
               ].map((e, t) =>
                 (0, s.jsxs)(s.Fragment, {
@@ -613,14 +613,14 @@
               subTitle: "Few Clicks",
               color: "#E7FF42",
               content:
-                "Once LOXO gauge has been initiated, anyone can bribe it with just a few clicks. Bribes are set per epoch, which lasts for 7 days.",
+                "Once OMNIX gauge has been initiated, anyone can bribe it with just a few clicks. Bribes are set per epoch, which lasts for 7 days.",
             },
             {
               title: "Receive Emissions",
-              subTitle: "From veLOXO Holders Votes",
+              subTitle: "From OMNIX Holders Votes",
               color: "#3FFAAF",
               content:
-                "LOXO emissions are distributed to gauges for new epoch based on votes from veLOXO holders.",
+                "OMNIX emissions are distributed to gauges for new epoch based on votes from OMNIX holders.",
             },
           ];
         return (
@@ -840,7 +840,7 @@
                 (0, s.jsx)("div", {
                   className:
                     "fontSemibold text-[48px] md:text-[56px] lg:text-[64px] leading-[70px] lg:leading-[96px] text-white",
-                  children: "LOXONFT",
+                  children: "OmnixNFT",
                 }),
                 (0, s.jsxs)(
                   g(),
@@ -855,7 +855,7 @@
                       (0, s.jsx)("button", {
                         className: h().mintBtn2,
                         style: { paddingRight: 0 },
-                        children: "MINT LoxoNFT",
+                        children: "MINT OmnixNFT",
                       }),
                       (0, s.jsx)("span", {
                         className: "ml-1",
@@ -878,7 +878,7 @@
                       (0, s.jsx)("button", {
                         className: h().mintBtn2,
                         style: { paddingRight: 0 },
-                        children: "MINT LoxoNFT",
+                        children: "MINT OmnixNFT",
                       }),
                       (0, s.jsx)("span", {
                         className: "ml-1 hidden md:block",
@@ -925,7 +925,7 @@
                               "fontSemibold w-full lg:w-[unset] inline-block",
                             children: "\xb7 Passive Income:",
                           }),
-                          " 10% Loxodrome trading fees + 3% of secondary NFT sales.",
+                          " 10% OmniX AI trading fees + 3% of secondary NFT sales.",
                         ],
                       }),
                       (0, s.jsxs)("div", {
@@ -936,7 +936,7 @@
                               "fontSemibold w-full lg:w-[unset] inline-block",
                             children: "\xb7 Emission Rewards:",
                           }),
-                          " Earn $LOXO emissions simply by staking your LoxoNFT.",
+                          " Earn $OMNIX emissions simply by staking your OmnixNFT.",
                         ],
                       }),
                       (0, s.jsxs)("div", {
@@ -947,7 +947,7 @@
                               "fontSemibold w-full lg:w-[unset] inline-block",
                             children: "\xb7 Exclusive Airdrops:",
                           }),
-                          " Stake LoxoNFT to get 10% $LOXO Airdrop.",
+                          " Stake OmnixNFT to get 10% $OMNIX Airdrop.",
                         ],
                       }),
                       (0, s.jsxs)("div", {
@@ -993,7 +993,7 @@
         }, []);
         let i = [
           {
-            year: "2024",
+            year: "2025",
             times: [
               {
                 icon: (0, s.jsx)(d.G0, {}),
@@ -1017,24 +1017,13 @@
                 icon: (0, s.jsx)(d.uU, {}),
                 iconMobile: (0, s.jsx)(d.uU, { size: "28" }),
                 title: "February - March",
-                desc: "Launch on IoTeX testnet",
+                desc: "Launch on OmniX testnet",
               },
               {
                 icon: (0, s.jsx)(d.sQ, {}),
                 iconMobile: (0, s.jsx)(d.sQ, { size: "24" }),
                 title: "Jan",
                 desc: "Community initiating, Tokenomics upgrade",
-              },
-            ],
-          },
-          {
-            year: "2023",
-            times: [
-              {
-                icon: (0, s.jsx)(d.G4, {}),
-                iconMobile: (0, s.jsx)(d.G4, { size: "28" }),
-                title: "February 2023",
-                desc: "Presale NFTs minting Launch testnet campaign",
               },
             ],
           },
@@ -1186,7 +1175,7 @@
               style: { zIndex: "1" },
               children: [
                 {
-                  title: "IoTeX",
+                  title: "OmniX",
                   icon: "/partners/iotex.png",
                   url: "https://iotex.io/",
                 },
@@ -1196,7 +1185,7 @@
                   url: "https://www.bedrock.technology/",
                 },
                 {
-                  title: "IoTeX_Daily",
+                  title: "OmniX_Daily",
                   icon: "/partners/iotexDaily.png",
                   url: "https://x.com/iotex_daily",
                 },
@@ -1315,7 +1304,7 @@
                 href: "https://twitter.com/WEconomyNetwork",
                 target: "_blank",
                 className: "px-2 text-blue hover:text-gray-200",
-                children: "@DePIN",
+                children: "@OmniX AI Organization",
               },
               "twitter"
             ),
@@ -1332,7 +1321,7 @@
               children: [
                 (0, s.jsxs)(i(), {
                   children: [
-                    (0, s.jsx)("title", { children: "Loxodrome" }),
+                    (0, s.jsx)("title", { children: "OmniX AI" }),
                     (0, s.jsx)("link", {
                       rel: "apple-touch-icon",
                       sizes: "180x180",
