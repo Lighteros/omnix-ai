@@ -1187,7 +1187,7 @@
                 {
                   title: "OmniX_Daily",
                   icon: "/partners/iotexDaily.png",
-                  url: "https://x.com/iotex_daily",
+                  url: "https://x.com/OmnixAI_Erc20",
                 },
                 {
                   title: "U2DPN",
@@ -1202,7 +1202,7 @@
                 {
                   title: "DePIN Buddy",
                   icon: "/partners/depin.png",
-                  url: "https://x.com/DePINBuddy",
+                  url: "https://x.com/OmnixAI_Erc20",
                 },
                 {
                   title: "mimo protocol",
@@ -1301,7 +1301,7 @@
             (0, s.jsx)(
               g(),
               {
-                href: "https://twitter.com/WEconomyNetwork",
+                href: "https://twitter.com/OmnixAI_Erc20",
                 target: "_blank",
                 className: "px-2 text-blue hover:text-gray-200",
                 children: "@OmniX AI Organization",

@@ -1046,28 +1046,28 @@
       let s = [
           {
             name: "Twitter",
-            href: "https://twitter.com/_Loxodrome",
+            href: "https://twitter.com/OmnixAI_Erc20",
             icon: i.vJk,
           },
-          { name: "Telegram", href: "https://t.me/loxodrome_xyz", icon: C.YG },
+          { name: "Telegram", href: "https://t.me/OmnixAI_Erc20", icon: C.YG },
           { name: "Doc", href: "https://alexeys-organization-9.gitbook.io/omnix-ai", icon: i.QXK },
         ],
         o = [
           {
             name: "Twitter",
-            href: "https://twitter.com/_Loxodrome",
+            href: "https://twitter.com/OmnixAI_Erc20",
             icon: i.vJk,
           },
-          { name: "Telegram", href: "https://t.me/loxodrome_xyz", icon: C.Xo },
+          { name: "Telegram", href: "https://t.me/OmnixAI_Erc20", icon: C.Xo },
           { name: "Doc", href: "https://alexeys-organization-9.gitbook.io/omnix-ai", icon: i.QXK },
         ],
         n = [
           {
             name: "Twitter",
-            href: "https://twitter.com/_Loxodrome",
+            href: "https://twitter.com/OmnixAI_Erc20",
             icon: i.vJk,
           },
-          { name: "Telegram", href: "https://t.me/loxodrome_xyz", icon: C.UN },
+          { name: "Telegram", href: "https://t.me/OmnixAI_Erc20", icon: C.UN },
           { name: "Doc", href: "https://alexeys-organization-9.gitbook.io/omnix-ai", icon: i.QXK },
         ];
     },
