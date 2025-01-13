@@ -216,7 +216,7 @@
                           h().animationPulse,
                           " mt-[80px] lg:mt-[50px] flex items-center gap-2 h-[46px] pl-[80px] pr-8 text-black rounded-[30px]"
                         ),
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x72f9F85bE7aC9eC4Ec991e84ED2b74665e03bc94",
                         target: "_blank",
                         children: [
                           (0, s.jsx)("button", {
