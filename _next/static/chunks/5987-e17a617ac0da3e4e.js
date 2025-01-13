@@ -1050,7 +1050,7 @@
             icon: i.vJk,
           },
           { name: "Telegram", href: "https://t.me/OmnixAI_Erc20", icon: C.YG },
-          { name: "Doc", href: "https://alexeys-organization-9.gitbook.io/omnix-ai", icon: i.QXK },
+          { name: "Doc", href: "https://docs.omnixai.cc", icon: i.QXK },
         ],
         o = [
           {
@@ -1059,7 +1059,7 @@
             icon: i.vJk,
           },
           { name: "Telegram", href: "https://t.me/OmnixAI_Erc20", icon: C.Xo },
-          { name: "Doc", href: "https://alexeys-organization-9.gitbook.io/omnix-ai", icon: i.QXK },
+          { name: "Doc", href: "https://docs.omnixai.cc", icon: i.QXK },
         ],
         n = [
           {
@@ -1068,7 +1068,7 @@
             icon: i.vJk,
           },
           { name: "Telegram", href: "https://t.me/OmnixAI_Erc20", icon: C.UN },
-          { name: "Doc", href: "https://alexeys-organization-9.gitbook.io/omnix-ai", icon: i.QXK },
+          { name: "Doc", href: "https://docs.omnixai.cc", icon: i.QXK },
         ];
     },
     59429: function (e, t, r) {
@@ -1083,7 +1083,7 @@
           r = "";
         return ((r = ["testnet", "localhost:3000"].includes(t)
           ? "https://dapptest.loxodrome.xyz/swap"
-          : "https://omnix-ai-app-cs.vercel.app/swap"),
+          : "https://app.omnixai.cc/swap"),
         e)
           ? ((window.location.href = r), "")
           : r;

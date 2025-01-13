@@ -1971,19 +1971,19 @@
                       (0, d.jsx)("link", {
                         rel: "apple-touch-icon",
                         sizes: "180x180",
-                        href: "/apple-touch-icon.png",
+                        href: "/favicon.ico",
                       }),
                       (0, d.jsx)("link", {
                         rel: "icon",
                         type: "image/png",
                         sizes: "32x32",
-                        href: "/favicon-32x32.png",
+                        href: "/favicon.ico",
                       }),
                       (0, d.jsx)("link", {
                         rel: "icon",
                         type: "image/png",
                         sizes: "16x16",
-                        href: "/favicon-16x16.png",
+                        href: "/favicon.ico",
                       }),
                       (0, d.jsx)("link", {
                         rel: "manifest",
@@ -2065,7 +2065,7 @@
                                 (0, d.jsx)(
                                   s(),
                                   {
-                                    href: "https://alexeys-organization-9.gitbook.io/omnix-ai",
+                                    href: "https://docs.omnixai.cc",
                                     target: "_blank",
                                     className:
                                       "text-blue-600 text-sm font-normal capitalize leading-normal",
@@ -2079,7 +2079,7 @@
                               className: A().stakeBtn,
                               onClick: () => {
                                 window.open(
-                                  "https://omnix-ai-app-cs.vercel.app/OmnixNFT"
+                                  "https://app.omnixai.cc/OmnixNFT"
                                 );
                               },
                               children: [
@@ -2356,7 +2356,7 @@
                                 (0, d.jsx)(
                                   s(),
                                   {
-                                    href: "https://alexeys-organization-9.gitbook.io/omnix-ai",
+                                    href: "https://docs.omnixai.cc",
                                     target: "_blank",
                                     className:
                                       "text-blue-600 text-sm font-normal capitalize leading-normal",
@@ -2373,7 +2373,7 @@
                               ),
                               onClick: () => {
                                 window.open(
-                                  "https://omnix-ai-app-cs.vercel.app/OmnixNFT"
+                                  "https://app.omnixai.cc/OmnixNFT"
                                 );
                               },
                               children: [

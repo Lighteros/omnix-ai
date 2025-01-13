@@ -115,7 +115,7 @@
             {
               height: "16%",
               btnTitle: "Swap Now",
-              url: "https://omnix-ai-app-cs.vercel.app/swap",
+              url: "https://app.omnixai.cc/swap",
               title: "Swap Your Tokens",
               subTitle: "With Low Slippage",
               content:
@@ -124,7 +124,7 @@
             },
             {
               height: "44.5%",
-              url: "https://omnix-ai-app-cs.vercel.app/liquidity",
+              url: "https://app.omnixai.cc/liquidity",
               btnTitle: "Deposit Liquidity",
               title: "Stake Liquidity to Earn",
               subTitle: "Earn OMNIX emissions",
@@ -135,7 +135,7 @@
             {
               height: "71%",
               btnTitle: "Go to Lock",
-              url: "https://omnix-ai-app-cs.vercel.app/lock",
+              url: "https://app.omnixai.cc/lock",
               title: "Lock OMNIX to earn ",
               subTitle: "Lock OMNIX to get votes",
               content:
@@ -145,7 +145,7 @@
             {
               height: "98%",
               btnTitle: "Cast your vote",
-              url: "https://omnix-ai-app-cs.vercel.app/vote",
+              url: "https://app.omnixai.cc/vote",
               title: "Cast Your Votes to Earn",
               subTitle: "Earn Bribes and Rewards",
               content:
@@ -215,6 +215,28 @@
                         className: "".concat(
                           h().animationPulse,
                           " mt-[80px] lg:mt-[50px] flex items-center gap-2 h-[46px] pl-[80px] pr-8 text-black rounded-[30px]"
+                        ),
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                        target: "_blank",
+                        children: [
+                          (0, s.jsx)("button", {
+                            className: h().mintBtn,
+                            children: "Buy Now",
+                          }),
+                          (0, s.jsx)("span", {
+                            className: "ml-1",
+                            children: (0, s.jsx)(d.t_, {}),
+                          }),
+                        ],
+                      },
+                      "presale"
+                    ),
+                    (0, s.jsxs)(
+                      g(),
+                      {
+                        className: "".concat(
+                          h().animationPulse,
+                          " mt-[20px] lg:mt-[10px] flex items-center gap-2 h-[46px] pl-[80px] pr-8 text-black rounded-[30px]"
                         ),
                         href: "/mint",
                         children: [
@@ -1325,19 +1347,19 @@
                     (0, s.jsx)("link", {
                       rel: "apple-touch-icon",
                       sizes: "180x180",
-                      href: "/apple-touch-icon.png",
+                      href: "/favicon.ico",
                     }),
                     (0, s.jsx)("link", {
                       rel: "icon",
                       type: "image/png",
                       sizes: "32x32",
-                      href: "/favicon-32x32.png",
+                      href: "/favicon.ico",
                     }),
                     (0, s.jsx)("link", {
                       rel: "icon",
                       type: "image/png",
                       sizes: "16x16",
-                      href: "/favicon-16x16.png",
+                      href: "/favicon.ico",
                     }),
                     (0, s.jsx)("link", {
                       rel: "manifest",
